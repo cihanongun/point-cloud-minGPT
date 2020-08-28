@@ -6,3 +6,12 @@ The "chair" class from [ShapeNet Part](http://web.stanford.edu/~ericyi/project_p
 
 ### Training
 The code is tested with PyTorch v1.5.0. Training takes around 3 hours on a single RTX 2070.
+
+| **Dataset** |
+|     :---:      |
+|<img src = 'images/test.png'>| 
+| **After discretization** |
+|<img src = 'images/input.png'>| 
+| **Generated samples** |
+|<img src = 'images/sample1.png'>| 
+|<img src = 'images/sample2.png'>| 
